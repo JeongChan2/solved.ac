@@ -27,7 +27,7 @@ else:
   m = m-45
 print(h,m)
 
-# good
+# good 
 H , M = map(int, input().split())
 total = H * 60 + M - 45
 if total < 0:
