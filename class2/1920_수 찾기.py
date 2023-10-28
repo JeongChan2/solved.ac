@@ -43,7 +43,7 @@ for target in elements2:
 n,a,m=input(),set(input().split()),input()
 print("\n".join((["1" if x in a else "0" for x in input().split()])))
 
-# 풀어쓰면
+## 풀어쓰면
 n = input()
 elements = set(input().split())
 m = input()
